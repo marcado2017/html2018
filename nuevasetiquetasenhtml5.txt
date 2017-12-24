@@ -1,5 +1,17 @@
+HTML:  QUE CONTENIDO VA A TENER NUESTRA PÁGINA/
+CSS: COMO SE VA A MOSTRAR.
+
+
+UNA PÁGINA ESCRITA EN HTML 4  aunque cambiemos la cabezera al DOCTYPE NO ES HTML5 y TAMBIÉN PENALIZA GOOGLE.
+
 Etiquetas nuevas en HTML5:
 	Estas etiquetas son las más modernas.
-		Las mejores para posicionamiento CEO.
-			
+		Las mejores para posicionamiento CEO. Google tienen una sección de Rankeo, para el posicionamiento, donde hay cosas que se premian y otras que se penalizan.
+		---------------------------------------------------------------------------------------------------------------------	
 	<header> / <nav> / <section> / <article> / <aside> /<footer>
+
+                           ---------------------------------------------------------------------------------------------------------------------
+
+		LOS DIV y su correspondiente  identificador ID ya  quedan obsoletos en algunas partes.
+                          ----------------------------------------------------------------------------------------------------------------------
+
