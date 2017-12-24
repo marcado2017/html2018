@@ -1,0 +1,5 @@
+Etiquetas nuevas en HTML5:
+	Estas etiquetas son las más modernas.
+		Las mejores para posicionamiento CEO.
+			
+	<header> / <nav> / <section> / <article> / <aside> /<footer>
