@@ -1,0 +1,5 @@
+Porcedimiento para subir a git hub:
+Creamos donde queremos que este  el directotrio con mkdir
+vamos a ese directotio con cd 
+tenemos que estar en la rama master e iniciliciamos con git  init
+git add y git commit.
